@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1737657381
+    locked: 0
+  - name: Sky
+    uniqueID: 1936192471
+    locked: 0
+  - name: Clouds_1
+    uniqueID: 4076421121
+    locked: 0
+  - name: Mountains
+    uniqueID: 1291113615
+    locked: 0
+  - name: Clouds_2
+    uniqueID: 1387977249
+    locked: 0
+  - name: BackgroundTrees1
+    uniqueID: 2809312345
+    locked: 0
+  - name: BackgroundTrees2
+    uniqueID: 3547165053
+    locked: 0
+  - name: BackgroundTrees3
+    uniqueID: 2783185299
+    locked: 0
+  - name: Ground_1
+    uniqueID: 1710830377
+    locked: 0
+  - name: Ground_2
+    uniqueID: 394325801
+    locked: 0
+  - name: Ground_3
+    uniqueID: 2745021653
+    locked: 0
+  - name: Character
+    uniqueID: 3626868941
+    locked: 0
+  - name: Ground_4
+    uniqueID: 3786313591
+    locked: 0
+  - name: UI
+    uniqueID: 3710163099
+    locked: 0
